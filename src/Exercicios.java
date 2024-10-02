@@ -1,4 +1,4 @@
-//Exercicios para praticar
+//Exercicio para praticar
 public class Exercicios {
     static String nome = "Will";
     static String comportamento = "Latir";

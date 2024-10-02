@@ -6,7 +6,7 @@ public class Main extends Exercicios {
         String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
         System.out.println(nomeCompleto);
         //cachorro1(nome,comportamento);
-        System.out.println(cachorro1(nome,comportamento));
+        System.out.println(cachorro1(nome,comportamento)); //Printando da classe Exercicios
     }
 
     public static String nomeCompleto(String primeiroNome, String segundoNome) {
