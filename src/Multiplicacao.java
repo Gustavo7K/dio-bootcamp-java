@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//codigo basico para praticar multiplicação entre dois numeros
 public class Multiplicacao {
     public static void main(String[] args) {
         System.out.println("Essa é uma calculadora simples de multiplicações atente-se as informações abaixo: \n");
