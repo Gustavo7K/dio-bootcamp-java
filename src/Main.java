@@ -1,4 +1,4 @@
-//Aprendendo POO básico usando jav, aprendendo mais sobre métodos e classes.
+//Aprendendo POO básico usando java, aprendendo mais sobre métodos e classes.
 public class Main extends Exercicios {
     public static void main(String[] args) {
         String primeiroNome = "Gleyson";
